@@ -1,0 +1,27 @@
+body{
+    background-image: url(OBMC\ background.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-control {
+    background-color: #fff;      
+    padding: 30px;           
+    border-radius: 12px;       
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);  
+    opacity: 92%;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+}
+
